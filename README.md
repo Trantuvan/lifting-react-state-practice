@@ -10,3 +10,4 @@ The design of the project is to showcase the understanding of concepts below:
 - tailwindcss
 
 The feature of this app is to build your simple and minimalist resume!
+# lifting-react-state-practice
